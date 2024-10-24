@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GitconfigserverApplication",
+            "request": "launch",
+            "mainClass": "com.kushvith.gitconfigserver.GitconfigserverApplication",
+            "projectName": "gitconfigserver"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-PhotoappapiserviceApplication<photoappapiservice>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
